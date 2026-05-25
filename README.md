@@ -127,9 +127,8 @@ Model performance:
 
 | Model | Accuracy |
 |---------|----------|
-| Logistic Regression | 82% |
-| Decision Tree | 80% |
-| Random Forest | 87% |
+| Linear Regression | 66% |
+| Random Forest | 79% |
 
 Random Forest achieved the highest accuracy.
 
