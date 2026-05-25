@@ -139,20 +139,10 @@ Random Forest achieved the highest accuracy.
 ```bash
 Loan_Eligibility_Prediction/
 │
-├── dataset/
-│   └── loan_data.csv
-│
-├── notebook/
-│   └── Loan_Prediction.ipynb
-│
-├── images/
-│   └── model_output.png
-│
-├── requirements.txt
-│
+├── Loan_datasets_pred.xlsx
+├──loan_code.ipynb
 ├── README.md
-│
-└── app.py
+
 ```
 
 ## Installation
